@@ -61,6 +61,12 @@ case "$1" in
         
         ;;
 
+    report_server)
+        echo "запуск и сборка сервера репортера"
+        docker build -f server/Dockerfile -t reporter_server server
+        docker run --rm -p 5009:5009 -v "$(pwd)/data:/data" reporter_server
+
+        ;;
     *)
         echo "ошибка: неизвестная команда '$1'"
         exit 1
