@@ -19,4 +19,6 @@ git clone https://github.com/darkmeleee/tp_hw3.git
 После запуска контейнера с веб-сервером, в консоль выведется несколько адресов сервера.
 Для того, чтобы открыть его в браузере, необходимо нажать Command/Ctrl и кликнуть на адрес 127.0.0.1:5009, или нажать кнопку на всплывающем окне в Codespaces
 <img width="1280" height="111" alt="пикча" src="https://github.com/user-attachments/assets/669a35f8-7260-4120-b1ed-8a983c2b7d73" />
+<img width="908" height="214" alt="image" src="https://github.com/user-attachments/assets/2e0b8c7c-1abb-4db4-950f-a36320c80095" />
+
 
