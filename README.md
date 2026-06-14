@@ -21,4 +21,9 @@ git clone https://github.com/darkmeleee/tp_hw3.git
 <img width="1280" height="111" alt="пикча" src="https://github.com/user-attachments/assets/669a35f8-7260-4120-b1ed-8a983c2b7d73" />
 <img width="908" height="214" alt="image" src="https://github.com/user-attachments/assets/2e0b8c7c-1abb-4db4-950f-a36320c80095" />
 
+##Использованные источники:
+https://medium.com/techcrush/how-to-render-html-file-in-flask-3fbfb16b47f6 - статья о том, как выдавать html страницу в flask
+https://medium.com/@oluchukwuedeh0/how-to-dockerize-a-python-script-for-data-processing-from-a-csv-file-a-step-by-step-guide-de77172827fd - монтирование папки
+
+
 
